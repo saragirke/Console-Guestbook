@@ -1,0 +1,15 @@
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\bin\Debug\net6.0\moment3.exe
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\bin\Debug\net6.0\moment3.deps.json
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\bin\Debug\net6.0\moment3.runtimeconfig.json
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\bin\Debug\net6.0\moment3.dll
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\bin\Debug\net6.0\moment3.pdb
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\obj\Debug\net6.0\moment3.csproj.AssemblyReference.cache
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\obj\Debug\net6.0\moment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\obj\Debug\net6.0\moment3.AssemblyInfoInputs.cache
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\obj\Debug\net6.0\moment3.AssemblyInfo.cs
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\obj\Debug\net6.0\moment3.csproj.CoreCompileInputs.cache
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\obj\Debug\net6.0\moment3.dll
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\obj\Debug\net6.0\refint\moment3.dll
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\obj\Debug\net6.0\moment3.pdb
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\obj\Debug\net6.0\moment3.genruntimeconfig.cache
+C:\Users\maxor\OneDrive\Skrivbord\C#\moment3\obj\Debug\net6.0\ref\moment3.dll
